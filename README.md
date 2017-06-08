@@ -35,10 +35,17 @@ Backend
 * https://www.sitepoint.com/26-steps-product-dashboard-design/
 
 Juegos y Practicas Programación
+* https://www.hackerrank.com/
+* https://www.hackerearth.com/
+* https://www.topcoder.com/
 * https://www.codingame.com/start
 * http://www.codewars.com/trainer/setup
 * https://checkio.org/
+* https://codility.com/programmers/
+* https://projecteuler.net/
 
+Competencias
+* http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html
 
 Tools
 * http://maschek.hu/imagemap/imgmap/
